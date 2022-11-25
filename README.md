@@ -21,5 +21,9 @@ It will press Q W E after given time period so any spell that requires no target
 
 It will ask to enter message and after given perop of time. The message will be typed and send to your allies
 
+## Note:
+It will only check mouse movements to asses that you are AFK or not. so if you are continously typing but moving mouse for given time the app will detect you as AFK. Will fix it later onwards
+
+
 ## Executable File:
 Extract the file to any folder and use it. Its a console base app. Will work on windows only. Windows 7 sp1 and above
