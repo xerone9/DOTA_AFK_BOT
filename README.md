@@ -19,7 +19,7 @@ It will press Q W E after given time period so any spell that requires no target
 
 #### 3- Send Message
 
-It will ask to enter message and after given perop of time. The message will be typed and send to your allies
+It will ask to enter message and after given period of time. The message will be typed and send to your allies
 
 ## Note:
 It will only check mouse movements to assess that you are AFK or not. so if you are continously typing but not moving mouse for given time the app will detect you as AFK. Will fix it later onwards
